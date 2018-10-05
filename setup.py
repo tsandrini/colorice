@@ -41,8 +41,8 @@ setup(
     description='',
     long_description='',
     author='Patrik Janoušek, Tomáš Sandrini',
-    author_email='patrik.janousek97@gmail.com, tomas.sandrini@seznam.cz',
-    license='NSW',
+    author_email='patrikjanousek97@gmail.com, tomas.sandrini@seznam.cz',
+    license='GPLv2',
     packages=find_packages(exclude=['tests']),
     install_requires=[
         'pyyaml'
