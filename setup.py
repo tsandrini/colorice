@@ -45,6 +45,7 @@ setup(
     license='NSW',
     packages=find_packages(exclude=['tests']),
     install_requires=[
+        'pyyaml'
     ],
     tests_require=[
         'pytest-cov',
